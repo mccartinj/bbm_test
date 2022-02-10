@@ -27,7 +27,7 @@
     "faunadb": "^2.14.2",
     "jest": "^24.1.0",
     "netlify-lambda": "^1.6.3",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.9",
     "nuxt-gmaps": "^1.2.3",
     "nuxt-leaflet": "0.0.21",
